@@ -1,5 +1,5 @@
 import React, { useState,useEffect } from 'react';
-import "./todolist.css";
+import "./TodoList.css"; // Corrigido: maiúsculo T
 import EmptyList from "./assets/listaVazia.png";
 
 function TodoList() {
